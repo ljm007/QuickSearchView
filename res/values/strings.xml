@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">QuickSearchView</string>
+    <string name="hello_world">Hello world!</string>
+
+    
+    <string-array name="names">
+	    <item>张飞</item>
+	    <item>王菲</item>
+	    <item>刘亦菲</item>
+	    <item>黄飞鸿</item>
+	    <item>李菲</item>
+	    <item>陈菲</item>
+	    <item>赵菲</item>
+	    <item>田菲</item>
+	    <item>郑菲</item>
+	    <item>邓菲</item>
+	    <item>岳飞</item>
+	    <item>郝菲</item>
+	    <item>咖啡</item>
+	    <item>吗啡</item>
+	</string-array>
+</resources>
